@@ -16,7 +16,9 @@ This project aims to digitize the credentials for people to store their data. It
 
 ## Algorithms Used
 •	Insertion Sort: used to sort the data in an ascending order. It is used to fetch credentials and to sort data before doing the binary search. It is an efficient algorithm with an O(n^2) time complexity.
+
 •	Binary Search: used to search for a specific credential. It is a fast algorithm with an O(n) time complexity.
+
 •	Other algorithms: some created algorithms were used in the application such as to check the duplication for usernames and sites’ names when to register and to add new site.
 
 ## Flowcharts of The Application
@@ -25,9 +27,13 @@ This project aims to digitize the credentials for people to store their data. It
 
 ## Core concepts used in the project. 
 •	Object-Oriented: used to create and model objects for users and their credentials.
+
 •	Files and I/O: used to store and fetch the data of users and credentials instead of read database.
+
 •	Collections: used some collections such arraylist to store collection of data. 
+
 •	Data Structures: some algorithms such as insertion sort and binary search used to increase the efficiency. 
+
 •	Exception Handling: used to catch problems that arises in the code especially in I/O blocks.
 
 ## Conclusion
