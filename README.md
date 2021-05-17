@@ -59,6 +59,12 @@ This project aims to digitize the credentials for people to store their data. It
 ![8](https://user-images.githubusercontent.com/64940728/118553882-90940180-b769-11eb-8d54-a7d250470eec.jpg)
 ![9](https://user-images.githubusercontent.com/64940728/118553885-912c9800-b769-11eb-8f61-7d56a2f5f8eb.jpg)
 
+## Directory Structure
+![11](https://user-images.githubusercontent.com/64940728/118561495-bc1be980-b773-11eb-959c-5e8a94ad7fb2.jpg)
+![22](https://user-images.githubusercontent.com/64940728/118561500-bd4d1680-b773-11eb-9796-787356f52192.jpg)
+![33](https://user-images.githubusercontent.com/64940728/118561501-bd4d1680-b773-11eb-8dc6-7446bb71f2d7.jpg)
+![44](https://user-images.githubusercontent.com/64940728/118561505-bde5ad00-b773-11eb-961f-320820a95194.jpg)
+
 
 ## Conclusion
 In conclusion, this application is very light and easy to use. It is fast and efficient in performance as it uses the concepts of Java creatively. In addition to the simplicity of the source code and the ability to update it later for any future changes. 
