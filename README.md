@@ -14,6 +14,8 @@ This project aims to digitize the credentials for people to store their data. It
 8.	Develop the binary search method.
 9.	Search credentials for a user.
 
+![jt](https://user-images.githubusercontent.com/64940728/118550664-a0114b80-b765-11eb-8f1f-2806ebef51c4.jpg)
+
 ## Algorithms Used
 •	Insertion Sort: used to sort the data in an ascending order. It is used to fetch credentials and to sort data before doing the binary search. It is an efficient algorithm with an O(n^2) time complexity.
 
