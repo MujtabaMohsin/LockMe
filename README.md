@@ -14,7 +14,7 @@ This project aims to digitize the credentials for people to store their data. It
 8.	Develop the binary search method.
 9.	Search credentials for a user.
 
-![jt](https://user-images.githubusercontent.com/64940728/118550664-a0114b80-b765-11eb-8f1f-2806ebef51c4.jpg)
+![jg](https://user-images.githubusercontent.com/64940728/118550785-c931dc00-b765-11eb-8bbf-fcd73c8ddcb0.jpg)
 
 ## Algorithms Used
 •	Insertion Sort: used to sort the data in an ascending order. It is used to fetch credentials and to sort data before doing the binary search. It is an efficient algorithm with an O(n^2) time complexity.
@@ -37,6 +37,25 @@ This project aims to digitize the credentials for people to store their data. It
 •	Data Structures: some algorithms such as insertion sort and binary search used to increase the efficiency. 
 
 •	Exception Handling: used to catch problems that arises in the code especially in I/O blocks.
+
+How to run the program
+•	clone project
+  o	clone git : git clone https://github.com/MujtabaMohsin/LockMe
+•	open src -> com -> simplilearn-> lockme -> RunApp.java
+  o	right click  -> run as java application
+
+
+## Screenshots
+![1](https://user-images.githubusercontent.com/64940728/118553865-8d007a80-b769-11eb-9146-60b30c7454f0.jpg)
+![2](https://user-images.githubusercontent.com/64940728/118553871-8e31a780-b769-11eb-8753-c43e99fa0b14.jpg)
+![3](https://user-images.githubusercontent.com/64940728/118553874-8eca3e00-b769-11eb-9159-f7aba7b7d68a.jpg)
+![4](https://user-images.githubusercontent.com/64940728/118553875-8eca3e00-b769-11eb-928d-06fe7684bea5.jpg)
+![5](https://user-images.githubusercontent.com/64940728/118553876-8f62d480-b769-11eb-89ce-cb12f83c8113.jpg)
+![6](https://user-images.githubusercontent.com/64940728/118553878-8ffb6b00-b769-11eb-8d02-e057373a5514.jpg)
+![7](https://user-images.githubusercontent.com/64940728/118553879-90940180-b769-11eb-82b1-34ceef3b360c.jpg)
+![8](https://user-images.githubusercontent.com/64940728/118553882-90940180-b769-11eb-8d54-a7d250470eec.jpg)
+![9](https://user-images.githubusercontent.com/64940728/118553885-912c9800-b769-11eb-8f61-7d56a2f5f8eb.jpg)
+
 
 ## Conclusion
 In conclusion, this application is very light and easy to use. It is fast and efficient in performance as it uses the concepts of Java creatively. In addition to the simplicity of the source code and the ability to update it later for any future changes. 
