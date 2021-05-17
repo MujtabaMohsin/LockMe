@@ -38,10 +38,13 @@ This project aims to digitize the credentials for people to store their data. It
 
 •	Exception Handling: used to catch problems that arises in the code especially in I/O blocks.
 
-How to run the program
+## How to run the program
 •	clone project
+
   o	clone git : git clone https://github.com/MujtabaMohsin/LockMe
+  
 •	open src -> com -> simplilearn-> lockme -> RunApp.java
+
   o	right click  -> run as java application
 
 
